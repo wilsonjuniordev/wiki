@@ -1,6 +1,6 @@
 <h1 align="center">
     <a href="https://github.com/wilsonjuniordev/wiki/wiki" target="_blank">
-      <img alt="Logo Wiki" title="#logo wiki" src=".github/wiki-logo.png" width="250px" />
+      <img alt="Logo Wiki" title="#logo wiki" src=".github/wiki-logo.png" width="500px" />
     </a>
 </h1>
 
@@ -30,7 +30,7 @@ Fique a vontade para dar um fork e adicionar e/ou corrigir este texto. Contribui
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
