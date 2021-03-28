@@ -9,18 +9,18 @@
 </h4>
 
 <p align="center">
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#computer-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 <br>
 
-## 💻 Projeto
+## :computer: Projeto
 
-Este material tem o propósito de documentar (e manter atualizados) os comandos básicos de algumas tecnologias.
+Essa wiki tem o propósito de documentar e manter atualizado, os comandos básicos de algumas tecnologias.
 
 - [LINK DA WIKI](https://github.com/wilsonjuniordev/wiki/wiki)
 
-O material é baseado nas documentações das tecnologias, e em diversos tutoriais e fóruns espalhados por aí. A grande diferença é que pretendo manter tudo em um só lugar, o mais simples possível (e em português). A intenção é que um iniciante consiga seguir todos os passos para criar, compartilhar e contribuir códigos sem sair (muito) deste espaço.
+O material é baseado nas documentações e também em diversos tutoriais e fóruns espalhados por aí. A grande diferença é que pretendo manter tudo em um só lugar, o mais simples possível (e em português). A intenção é que um iniciante consiga seguir todos os passos para criar, compartilhar e contribuir códigos sem sair (muito) deste espaço.
 
 Fique a vontade para dar um fork e adicionar e/ou corrigir este texto. Contribuições serão sempre bem vindas!.
 
