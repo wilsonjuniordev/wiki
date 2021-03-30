@@ -1,6 +1,6 @@
 <h1 align="center">
     <a href="https://github.com/wilsonjuniordev/wiki/wiki" target="_blank">
-      <img alt="Logo Wiki" title="#logo wiki" src=".github/wiki-logo.png" width="500px" />
+      <img alt="Logo Wiki" title="#logo wiki" src=".github/wiki-logo.png" />
     </a>
 </h1>
 
